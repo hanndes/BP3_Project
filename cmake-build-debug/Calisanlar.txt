@@ -1,0 +1,14 @@
+Hande, Dereli, 1, 550.00, 2017
+Esma, Dereli, 1, 300.00, 2024
+Yasemin, Dönmez, 1, 6000.00, 2010
+Gizem, Inanbak, 1, 450.00, 2022
+Sema, Dereli, 2, 710.00, 2018
+Erva, Sasmaz, 2, 670.00, 2009
+Beyza, Kir, 2, 700.00, 2012
+Erhan, Dereli, 3, 920.00, 2016
+Erva Sara, Ozdal, 3, 750.00, 2014
+İrem, Ayvaz, 3, 600.00, 2013
+Beyza, Yilmaz, 2, 600.00, 2009
+Kadir, Aram, 1, 6000.00, 2010
+Zeliha, Kaya, 1, 760.00, 2017
+Ayşe, Yildirim, 3, 250.00, 2015

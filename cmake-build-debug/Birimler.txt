@@ -1,0 +1,3 @@
+IT, 1
+Muhasebe, 2
+Insan Kaynaklari, 3
